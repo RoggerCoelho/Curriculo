@@ -1,0 +1,103 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.curriculo {
+    border: 1px solid;
+    width: 600px;
+    height: 800px;
+    background-color: wheat;
+}
+
+.pe {
+    background-color: black;
+    width: 270px;
+    color: #ebe8e8;
+    float: left;
+    height: 100%;
+}
+
+.ld {
+    width: 330px;
+    color: #2e2e2e;
+    float: right;
+}
+
+.imagem {
+    width: 100%;
+    border-radius: 100px;
+}
+
+.partpreta {
+    margin: 20px;
+}
+
+.ladd {
+    margin: 75px 25px 0 25px;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: blue;
+    font-weight: 900;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.carreira {
+    margin-top: 30px;
+}
+
+.hab,
+.contato {
+    margin-top: 15px;
+}
+
+h5 {
+    color: blue;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+p {
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+ul {
+    margin-left: 15px;
+}
+
+ul li {
+    font-size: 11px;
+    padding: 3px 0;
+}
+
+.tld {
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+h6 {
+    padding: 5px 10px;
+    color: blue;
+    font-size: 13px;
+}
+
+.listald {
+    margin-left: 25px;
+}
+
+.info,
+.referencias {
+    margin-top: 45px;
+}
