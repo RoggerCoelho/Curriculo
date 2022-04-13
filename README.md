@@ -1,2 +1,2 @@
 # Curriculo
-TRabalho em grupo
+Trabalho em grupo
